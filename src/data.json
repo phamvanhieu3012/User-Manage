@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Phạm Văn Hiếu",
+    "phone": "09322323322",
+    "permission": "1"
+  },
+  {
+    "id": "2",
+    "name": "IronMan",
+    "phone": "09322344442",
+    "permission": "3"
+  },
+  {
+    "id": "3",
+    "name": "Captain VietNam",
+    "phone": "0932000022",
+    "permission": "1"
+  },
+  {
+    "id": "4",
+    "name": "Titanic",
+    "phone": "0932231221",
+    "permission": "2"
+  },
+  {
+    "id": "5",
+    "name": "BatMan",
+    "phone": "0932981221",
+    "permission": "3"
+  }
+]
