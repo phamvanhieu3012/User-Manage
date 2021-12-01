@@ -1,1 +1,1 @@
-# User manage: Thêm, Sửa, Xóa
+# User manage: Thêm, Sửa, Xóa, Tìm kiếm
